@@ -34,7 +34,7 @@ public class Knife4jConfig {
         return new ApiInfoBuilder()
                 .title("aurora文档")
                 .description("aurora")
-                .contact(new Contact("啤酒仙人", "", "1909925152@qq.com"))
+                .contact(new Contact("啤酒仙人", "", "731566192@qq.com"))
                 .termsOfServiceUrl("https://blog.567bus.shop/api")
                 .version("1.0")
                 .build();
