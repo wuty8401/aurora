@@ -8,9 +8,7 @@
 
 ## 在线地址
 
-- 前台链接：[blog.567bus.shop](https://blog.567bus.shop)
-- 后台链接：[admin.linhaojun.top](https://admin.linhaojun.top)
-- 演示账号：test@163.com，密码：123456
+- 前台访问链接：[blog.tikshop.mom](https://blog.tikshop.mom)
 
 ## 效果图
 

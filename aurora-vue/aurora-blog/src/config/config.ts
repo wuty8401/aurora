@@ -1,7 +1,7 @@
 export default {
   qqLogin: {
     QQ_APP_ID: '101999415',
-    QQ_REDIRECT_URI: 'https://blog.567bus.shop/oauth/login/qq'
+    QQ_REDIRECT_URI: 'https://blog.tikshop.mom/oauth/login/qq'
   },
   routes: [
     {

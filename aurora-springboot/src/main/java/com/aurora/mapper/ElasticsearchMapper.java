@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 
 /**
- * @author 啤酒仙人
+ * @author 斷捨離
  * elasticsearch
  */
 @Repository

@@ -22,7 +22,7 @@ public class Knife4jConfig {
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .protocols(Collections.singleton("https"))
-                .host("https://blog.567bus.shop")
+                .host("https://blog.tikshop.mom")
                 .apiInfo(apiInfo())
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("com.aurora.controller"))
@@ -34,8 +34,8 @@ public class Knife4jConfig {
         return new ApiInfoBuilder()
                 .title("aurora文档")
                 .description("aurora")
-                .contact(new Contact("啤酒仙人", "", "731566192@qq.com"))
-                .termsOfServiceUrl("https://blog.567bus.shop/api")
+                .contact(new Contact("斷捨離", "", "840122533@qq.com"))
+                .termsOfServiceUrl("https://blog.tikshop.mom/api")
                 .version("1.0")
                 .build();
     }

@@ -53,10 +53,10 @@ public class SubscribeConsumer {
             emailDTO.setTemplate("common.html");
             String url = websiteUrl + "/articles/" + articleId;
             if (article.getUpdateTime() == null) {
-                map.put("content", "啤酒仙人的个人博客发布了新的文章，"
+                map.put("content", "斷捨離の个人博客发布了新的文章，"
                         + "<a style=\"text-decoration:none;color:#12addb\" href=\"" + url + "\">点击查看</a>");
             } else {
-                map.put("content", "啤酒仙人的个人博客对《" + article.getArticleTitle() + "》进行了更新，"
+                map.put("content", "斷捨離の个人博客对《" + article.getArticleTitle() + "》进行了更新，"
                         + "<a style=\"text-decoration:none;color:#12addb\" href=\"" + url + "\">点击查看</a>");
             }
             emailDTO.setCommentMap(map);

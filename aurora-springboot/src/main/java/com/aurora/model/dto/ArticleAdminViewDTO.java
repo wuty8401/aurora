@@ -8,7 +8,7 @@ import java.util.List;
 
 
 /**
- * @author 啤酒仙人
+ * @author 斷捨離
  * 文章编辑页码DTO
  */
 @Data
